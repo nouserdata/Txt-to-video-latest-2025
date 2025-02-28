@@ -1408,7 +1408,7 @@ OWNER_TEXT = """
 
 **Example:**
 help_text = """
-🔹 **Welcome to the Bot Commands & Usage Guide!** 🔹
+ **Welcome to the Bot Commands & Usage Guide!** 🔹
 
 📌 **Allowed Channels Commands:**
 1️⃣ **/show_channels** - 📺 Displays the list of allowed channels.
